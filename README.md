@@ -30,5 +30,7 @@ Image-Slider/
 
 A smooth 3D carousel-style image slider showcasing multiple images with title and description.
 
+
+
 ## ✨ Author
 Tanishka Khandelwal
