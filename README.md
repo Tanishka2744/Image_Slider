@@ -30,6 +30,7 @@ Image-Slider/
 
 A smooth 3D carousel-style image slider showcasing multiple images with title and description.
 
+![3DImageSlider](https://github.com/user-attachments/assets/3f008e5b-3ea5-4ade-abdf-a0e5d332733e)
 
 
 ## ✨ Author
