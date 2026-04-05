@@ -1,37 +1,63 @@
-# 3D Image Slider
+# 🌟 Image Slider
 
-A modern and interactive 3D image slider built using HTML, CSS, and JavaScript.
-The slider includes smooth animations, autoplay, navigation controls, swipe gestures, and keyboard support.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-## 🚀 Features
+**Image Slider** is a web application built using **HTML, CSS, and JavaScript**, designed to display images in a smooth, interactive, and responsive slider.
 
-- 3D sliding animation
-- Autoplay with pause on hover
-- Previous / Next navigation buttons
-- Clickable indicators
-- Keyboard navigation (Arrow keys)
-- Touch swipe support (Mobile friendly)
-- Responsive design
+💡 This project focuses on **dynamic UI, animation effects, and responsive design**, perfect for showcasing multiple images in a visually appealing way.
 
-## 🛠️ Tech Stack
+---
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+## 🌐 Live Demo
 
-## 📂 Project Structure
+[🖼️ View Image Slider Live](https://image-slider-three-hazel.vercel.app/)
 
-Image-Slider/
-│── index.html  
-│── style.css  
-│── script.js  
+---
 
-## 📸 Preview
+## 🌈 Tech Skills
 
-A smooth 3D carousel-style image slider showcasing multiple images with title and description.
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
 
-![3DImageSlider](https://github.com/user-attachments/assets/3f008e5b-3ea5-4ade-abdf-a0e5d332733e)
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
 
+---
 
-## ✨ Author
-Tanishka Khandelwal
+## 💻 About Image Slider
+
+- Built using **HTML, CSS, and JavaScript**  
+- Displays **multiple images in an interactive carousel**  
+- Smooth **slide transitions and navigation controls**  
+- Highlights **real-world frontend UI/UX patterns**  
+- Focused on **responsive design for all devices**  
+
+### 🌟 Key Features
+
+- **Automatic Sliding:** Images slide automatically at set intervals  
+- **Manual Navigation:** Users can navigate with previous/next buttons  
+- **Responsive Design:** Works on desktop, tablet, and mobile screens  
+- **Smooth Animations:** Transitions between images are visually appealing  
+- **Clean Layout:** Modern design with minimal distractions  
+
+---
+
+## 🌱 Learning & Growth
+
+- 💻 Strengthening **JavaScript DOM manipulation & animation**  
+- 🎨 Improving **UI/UX for interactive components**  
+- 🌐 Practicing **responsive and visually appealing design**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
+
+---
+
+Made with ❤️ using **HTML, CSS & JavaScript**
